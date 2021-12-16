@@ -168,7 +168,6 @@ namespace Collision_With_Rectangles
             if (lives == 2)
             {
                 heart1.Location = new Point(1000, 600);
-
             }
             if (lives == 1)
             {
